@@ -135,7 +135,7 @@ msgpack==0.6.1
 multipledispatch==0.6.0
 mysqlclient==1.4.6
 navigator-updater==0.2.1
-nbconvert==5.6.1
+nbconvert==6.3.0
 nbdev==0.2.16
 nbformat==4.4.0
 networkx==2.3
